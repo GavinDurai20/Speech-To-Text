@@ -1,7 +1,4 @@
 # Speech-To-Text
-
-Here’s an **About** and **Description** you can use for your GitHub repository for the "Speech to Text" app website:
-
 ---
 
 ### About  
