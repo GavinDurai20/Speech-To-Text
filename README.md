@@ -1,7 +1,5 @@
 # Speech-To-Text
 ---
-
-### About  
 **Speech to Text** is a simple, responsive web application that converts spoken words into written text using modern web technologies. It provides an easy-to-use interface for real-time transcription, making it accessible for various purposes like note-taking, dictation, and accessibility support.
 
 ---
