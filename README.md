@@ -15,20 +15,8 @@ This project is built using **HTML**, **CSS**, and **JavaScript**, leveraging th
 - Dynamic Text Display  
 - Clear Button to Reset Text  
 
-### Usage  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/speech-to-text.git
-   ```  
-2. Open `index.html` in your favorite browser to get started.  
-
-### Technologies Used  
-- **HTML5**: For the structure of the app.  
-- **CSS3**: For styling and responsive design.  
-- **JavaScript**: To implement speech recognition logic.  
-
 Feel free to contribute or suggest improvements! 😊  
 
 --- 
 
-Let me know if you want a more customized or technical write-up!
+
